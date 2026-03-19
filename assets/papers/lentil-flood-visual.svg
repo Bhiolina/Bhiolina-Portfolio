@@ -1,0 +1,46 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#F7F1E8"/>
+  <rect x="48" y="48" width="1104" height="804" rx="28" fill="#FFFAF3" stroke="#D8D0C4" stroke-width="2"/>
+  <text x="84" y="120" fill="#0A4B3D" font-family="Arial, sans-serif" font-size="44" font-weight="700">
+    Lentil Flood Stress Study
+  </text>
+  <text x="84" y="162" fill="#53635F" font-family="Arial, sans-serif" font-size="24">
+    Physiological and genetic responses of Lens culinaris under flood stress
+  </text>
+
+  <rect x="84" y="214" width="308" height="210" rx="24" fill="#E9F4F0"/>
+  <text x="112" y="262" fill="#0A4B3D" font-family="Arial, sans-serif" font-size="26" font-weight="700">Stress Setup</text>
+  <text x="112" y="306" fill="#13261F" font-family="Arial, sans-serif" font-size="22">6- to 8-week-old seedlings</text>
+  <text x="112" y="340" fill="#13261F" font-family="Arial, sans-serif" font-size="22">Flooded for 4 days</text>
+  <text x="112" y="374" fill="#13261F" font-family="Arial, sans-serif" font-size="22">qPCR, GC-MS, SEM, physiology</text>
+
+  <rect x="446" y="214" width="308" height="210" rx="24" fill="#EEF0FF"/>
+  <text x="474" y="262" fill="#0A4B3D" font-family="Arial, sans-serif" font-size="26" font-weight="700">Upregulated Genes</text>
+  <text x="474" y="306" fill="#13261F" font-family="Arial, sans-serif" font-size="22">accD</text>
+  <text x="474" y="340" fill="#13261F" font-family="Arial, sans-serif" font-size="22">aldolase</text>
+  <text x="474" y="374" fill="#13261F" font-family="Arial, sans-serif" font-size="22">petD</text>
+
+  <rect x="808" y="214" width="308" height="210" rx="24" fill="#FFF0E5"/>
+  <text x="836" y="262" fill="#0A4B3D" font-family="Arial, sans-serif" font-size="26" font-weight="700">Downregulated / Reduced</text>
+  <text x="836" y="306" fill="#13261F" font-family="Arial, sans-serif" font-size="22">SD and psbA trends</text>
+  <text x="836" y="340" fill="#13261F" font-family="Arial, sans-serif" font-size="22">chlorophyll content</text>
+  <text x="836" y="374" fill="#13261F" font-family="Arial, sans-serif" font-size="22">catalase and volatiles</text>
+
+  <path d="M240 456C240 520 240 560 240 620" stroke="#0F7A62" stroke-width="6" stroke-linecap="round"/>
+  <path d="M600 456C600 520 600 560 600 620" stroke="#0F7A62" stroke-width="6" stroke-linecap="round"/>
+  <path d="M960 456C960 520 960 560 960 620" stroke="#0F7A62" stroke-width="6" stroke-linecap="round"/>
+
+  <rect x="84" y="618" width="1032" height="170" rx="24" fill="#0A4B3D"/>
+  <text x="116" y="674" fill="#F7F1E8" font-family="Arial, sans-serif" font-size="30" font-weight="700">
+    Interpreted Outcome
+  </text>
+  <text x="116" y="718" fill="#F7F1E8" font-family="Arial, sans-serif" font-size="24">
+    Flooded lentils showed molecular, anatomical, and physiological stress responses,
+  </text>
+  <text x="116" y="752" fill="#F7F1E8" font-family="Arial, sans-serif" font-size="24">
+    including higher wax deposition and lower LOX-pathway volatile emissions,
+  </text>
+  <text x="116" y="786" fill="#F7F1E8" font-family="Arial, sans-serif" font-size="24">
+    supporting future work on flood-tolerant lentil development.
+  </text>
+</svg>
